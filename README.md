@@ -1,4 +1,4 @@
-# NLW-03- Happy
+# NLW#03 Happy
 Projeto NLW #03 da trilha Omnistack realizado pela Rocketseat. 
 
 O projeto direcionado pela Rocketseat teve como o objetivo na sua terceira edição implementar um sistema que ajudasse as crianças e pessoas de casas de acolhimentos. Dessa forma,
